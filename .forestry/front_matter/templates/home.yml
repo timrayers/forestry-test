@@ -1,4 +1,10 @@
 ---
 label: Home
 hide_body: true
-fields: []
+fields:
+- name: label
+  type: text
+  config:
+    required: false
+  label: Label
+  description: Description
